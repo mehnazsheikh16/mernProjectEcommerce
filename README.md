@@ -2,9 +2,6 @@
 
 A full-stack e-commerce application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This project is designed to teach and demonstrate how a real-world e-commerce application works, including authentication, product management, cart functionality, checkout flow, and admin features.
 
-## Demo
-
-Live demo / local development setup available after running the project locally.
 
 ## Tech Stack
 
